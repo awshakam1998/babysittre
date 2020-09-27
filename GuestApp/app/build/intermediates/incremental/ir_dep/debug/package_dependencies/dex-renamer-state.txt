@@ -1,0 +1,4 @@
+#Thu Jul 18 08:18:49 EEST 2019
+base.0=C\:\\Users\\aws hakam\\Desktop\\project1\\GuestApp\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+path.0=classes.dex
+renamed.0=classes.dex

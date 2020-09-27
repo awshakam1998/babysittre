@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.MarioNageh:decodepoly:a3f2eaaf5e@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8874c1adfb87c4dd0d84a8ed7dbd7011/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8874c1adfb87c4dd0d84a8ed7dbd7011/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8874c1adfb87c4dd0d84a8ed7dbd7011/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/background"
+    android:elevation="10dp">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:gravity="center"
+            android:orientation="vertical">
+
+
+            <EditText
+                android:id="@+id/FirstNameSitter"
+                android:layout_width="match_parent"
+                android:layout_height="69dp"
+                android:hint="First Name"
+                android:inputType="text"
+                android:textColorHint="@color/text"
+                android:textSize="20sp" />
+
+            <EditText
+                android:id="@+id/LastNameSitter"
+                android:layout_width="match_parent"
+                android:layout_height="69dp"
+                android:hint="Last Name"
+                android:inputType="text"
+                android:textColorHint="@color/text"
+                android:textSize="20sp" />
+
+            <EditText
+                android:id="@+id/EmailSitter"
+                android:layout_width="match_parent"
+                android:layout_height="69dp"
+                android:hint="Email"
+                android:inputType="textEmailAddress"
+                android:textColorHint="@color/text"
+                android:textSize="20sp" />
+
+            <EditText
+                android:id="@+id/PhoneSitter"
+                android:layout_width="match_parent"
+                android:layout_height="69dp"
+                android:hint="Phone"
+                android:inputType="phone"
+                android:textColorHint="@color/text"
+                android:textSize="20sp" />
+
+            <EditText
+                android:id="@+id/PasswordSitter"
+                android:layout_width="match_parent"
+                android:layout_height="69dp"
+                android:hint="Password"
+                android:inputType="textPassword"
+                android:textColorHint="@color/text"
+                android:textSize="20sp" />
+
+            <EditText
+                android:id="@+id/rePasswordSitter"
+                android:layout_width="match_parent"
+                android:layout_height="69dp"
+                android:hint="Re-Password"
+                android:inputType="textPassword"
+                android:textColorHint="@color/text"
+                android:textSize="20sp" />
+
+
+
+        </LinearLayout>
+
+
+
+</androidx.cardview.widget.CardView>
